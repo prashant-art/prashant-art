@@ -82,7 +82,7 @@ With a strong technical foundation holding a Bachelor of Engineering in Computer
   <a href="https://x.com/@prashantka12777" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:prashantkatre22@gmail.com">
+  <a href="mailto:pkatre279@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> 
 </p>
